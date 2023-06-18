@@ -1,0 +1,6 @@
+lock.php->
+it is used to authentication &
+also create so that unautorized user
+cannot login internal pages of admin.
+(redirect login.php)
+------------------------
